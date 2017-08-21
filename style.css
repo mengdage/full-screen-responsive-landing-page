@@ -13,7 +13,7 @@ body {
 	height: 100%;
 	width: 100%;
 	margin: auto;
-	background: url(https://static.pexels.com/photos/95328/pexels-photo-95328.jpeg) no-repeat center/cover;
+	background: url(images/cat.jpeg) no-repeat center/cover;
 	display: flex;
 	justify-content: center;
 	align-items: center;
